@@ -11,6 +11,12 @@ body{
 p{
 	font-size: large;
 }
+a {
+	padding: 5px;
+	background-color: honeydew;
+	color: brown;
+	border-radius: 30%;
+}
 
 #displayimage{
 	margin: auto;
