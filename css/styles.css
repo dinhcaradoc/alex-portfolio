@@ -1,0 +1,27 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+	width: 90%;
+	margin: auto;
+	background-color: bisque;
+}
+
+p{
+	font-size: large;
+}
+
+#displayimage{
+	left: 50%;
+	width: 150px;
+	border-radius: 7%;
+	border-bottom: gold, solid, 5px;
+}
+
+.header{
+	background-color: gray;
+	padding: 10px;
+	margin-bottom: 5px;
+	border-bottom: black, solid, 3px;
+}
